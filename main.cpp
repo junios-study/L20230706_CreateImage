@@ -1,3 +1,7 @@
+#include <iostream>
+
+using namespace std;
+
 class FImage 
 {
 public:
@@ -11,5 +15,5 @@ public:
 int main()
 {
 	
-
+	cout << "Hello World" << endl;
 }
